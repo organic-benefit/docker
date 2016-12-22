@@ -2,8 +2,9 @@
 
 
 example
-
- `$docker exec -t -i 589f2ad30138 /bin/bash`
+```
+ $docker exec -t -i 589f2ad30138 /bin/bash
+```
 
 - t : Allocate a pseudo-TTY
 - i : Keep STDIN open even if not attached
